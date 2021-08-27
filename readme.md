@@ -1,3 +1,1 @@
-# Biruk
-
 ## Hello
